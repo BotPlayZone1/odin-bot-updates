@@ -1,3 +1,2 @@
 adb.exe|data\files\adb.exe
-plugins\plugin1.dll|data\plugins\plugin1.dll
-plugins\plugin2.dll|data\plugins\plugin2.dll
+
