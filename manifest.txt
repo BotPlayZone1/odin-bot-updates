@@ -1,2 +1,2 @@
-adb.exe|data\files\adb.exe
+Odin_Bot_v1.3.4.exe|data\
 
