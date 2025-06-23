@@ -1,2 +1,2 @@
 Odin_Bot.exe|data\Odin_Bot.exe
-
+Odin_Bot_Core.a3x|data\files\Odin_Bot_Core.a3x
